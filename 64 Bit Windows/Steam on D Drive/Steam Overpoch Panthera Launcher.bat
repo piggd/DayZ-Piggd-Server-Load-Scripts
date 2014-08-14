@@ -21,7 +21,7 @@ set steampath=D:\Program Files (x86)\Steam\steamapps\common
 set IP=173.208.193.98
 set PORT=6860
 ::set MODS=@DayzOverwatch;@DayZ_Epoch;@DayZ_Sahrani
-set MODS=@DayzOverwatch;@DayZ_Epoch;@DayZEpochPanthera_Panthera
+set MODS=@DayZPanthera;@DayzOverwatch;@DayZ_Epoch
 ::===============================================================================================================================================
 ::= Addional Launch Parameters =============================================================================================================
 ::---> ==========================================================================================================================================
