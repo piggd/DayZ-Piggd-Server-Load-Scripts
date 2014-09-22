@@ -20,6 +20,7 @@ set steampath=C:\Program Files (x86)\Steam\steamapps\common
 ::---> ==========================================================================================================================================
 set IP=173.208.193.98
 set PORT=6800
+::set MODS=@DayzOverwatch;@DayZ_Epoch;@DayZ_Sahrani
 set MODS=@DayzOrigins;@DayzOverwatch;@DayZ_Epoch;
 ::===============================================================================================================================================
 ::= Addional Launch Parameters =============================================================================================================
@@ -36,3 +37,4 @@ set arma2path=%steampath%\Arma 2
 ::===============================================================================================================================================
 start ""  "%arma2oapath%\ArmA2OA_BE.exe" 0 0 -skipintro "%addparam%" "-mod=%MODS%;%arma2path%;expansion" -noSplash -noFilePatching -world=empty -connect=%IP% -port=%PORT% 
 @exit
+
