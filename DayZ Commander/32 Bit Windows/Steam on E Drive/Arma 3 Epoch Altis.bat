@@ -5,7 +5,7 @@ echo --------------------------------
 echo mail: dayzpiggd@mgail.com
 echo http://dayzpiggd.enjin.com
 echo ===============================
-echo Connecting to Epoch Altis Lab Server .....
+echo Connecting to Epoch Altis Server .....
 timeout 5
 
 ::===============================================================================================================================================
